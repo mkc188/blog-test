@@ -1,9 +1,11 @@
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
-indexes:
-  category: "categories"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
 baseurl = "http://mkc188.github.io/blog"
 languageCode = "en-us"
 title = "My New Hugo Site"
-canonifyurls: true
+canonifyurls = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
