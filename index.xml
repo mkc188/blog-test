@@ -3,7 +3,7 @@
   <channel>
       <title> on My New Hugo Site </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://mkc188.github.io/blog/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>about</title>
-      <link>http://localhost:1313/blog/about/</link>
+      <link>http://mkc188.github.io/blog/about/</link>
       <pubDate>Thu, 11 Jun 2015 11:10:57 HKT</pubDate>
       
-      <guid>http://localhost:1313/blog/about/</guid>
+      <guid>http://mkc188.github.io/blog/about/</guid>
       <description>This is the about page.</description>
     </item>
     
