@@ -1,3 +1,9 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl = "http://mkc188.github.io/blog"
 languageCode = "en-us"
 title = "My New Hugo Site"
+canonifyurls: true
